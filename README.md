@@ -1,10 +1,10 @@
 # Tog-Her
 Portfolio/Projects
 
-# Active Directory Setup Project
+# Active Directory Project
 
 ## Project Overview
-This project demonstrates my skills in setting up and managing an Active Directory (AD) environment using Microsoft Azure. The goal was to deploy virtual machines (VMs), create an AD domain controller (DC), and configure user groups and organizational units (OUs) for different departments.
+This project demonstrates my skills in setting up and managing an Active Directory (AD) environment using Microsoft Azure. I deployed 2 virtual machines (VMs), 1 VM for the domain controller (DC), the other as a client then I configured user groups and organizational units (OUs) for different departments.
 
 ### Key Features
 - **VM Deployment**: Utilized Microsoft Azure to deploy VMs.
