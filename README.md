@@ -8,7 +8,7 @@ Hello, my name is Tog Her. I am an aspiring technology enthusiast with a CompTIA
 Here are some of my projects that I've worked on:
 - [Strategic Active Directory Deployment: Creating and Securing a Virtual Enterprise](https://github.com/teher0094/Active-Directory-/blob/main/README.md) 
 - [Azure VM Deployment: A Simple Guide](https://github.com/teher0094/Azure-VM-Deployment) 
-- [OSTicket System Exploration](link-to-your-ticket-system-repo) In progress
+- [OSTicket System Exploration](https://github.com/teher0094/osTicket-Exploration) In progress
 
 ## Connect with Me
 - LinkedIn: [Your LinkedIn](Your LinkedIn URL) In progress
