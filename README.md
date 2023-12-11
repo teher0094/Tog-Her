@@ -6,7 +6,7 @@ Hello, my name is Tog Her. I am an aspiring technology enthusiast with a CompTIA
 
 ## My Projects
 Here are some of my projects that I've worked on:
-- [Active Directory User and Access Management Project](https://github.com/teher0094/Active-Directory-/blob/main/README.md) In progress
+- [Strategic Active Directory Deployment](https://github.com/teher0094/Active-Directory-/blob/main/README.md) 
 - [Azure VM Deployment](https://github.com/teher0094/Azure-VM-Deployment) 
 - [OSTicket System Exploration](link-to-your-ticket-system-repo) In progress
 
