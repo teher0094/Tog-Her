@@ -11,7 +11,7 @@ Here are some of my projects that I've worked on:
 - [OSTicket System Exploration](https://github.com/teher0094/osTicket-Exploration) 
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL) In progress
+- LinkedIn: [(https://www.linkedin.com/in/t-h-1616192a4/)]
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
